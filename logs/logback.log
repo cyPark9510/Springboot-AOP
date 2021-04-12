@@ -1,0 +1,2 @@
+[2021-04-12 20:48:13:279067][http-nio-8080-exec-7] WARN  com.pcy.aop.config.BindingAdvice - com.pcy.aop.web.UserController.save() => 필드 : username, 메시지 : 유저네임 키값이 없습니다.
+[2021-04-12 20:48:13:279069][http-nio-8080-exec-7] WARN  com.pcy.aop.config.BindingAdvice - com.pcy.aop.web.UserController.save() => 필드 : username, 메시지 : 유저네임을 입력하세요.
